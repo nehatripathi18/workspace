@@ -1,0 +1,25 @@
+<html>  
+<body>  
+<form action="Register" method="post">  
+  
+<input type="text" name="userName">
+<br>  
+<input type="password" name="userPass">
+<br>  
+<input type="text" name="userEmail"><br>  
+
+
+Country:  
+<select name="userCountry">  
+<option>India</option>  
+<option>Pakistan</option>
+<option>JAPAN</option>  
+<option>other</option>  
+</select>  
+  <br>  
+
+<input type="submit" value="register">  
+  
+</form>  
+</body>  
+</html>  

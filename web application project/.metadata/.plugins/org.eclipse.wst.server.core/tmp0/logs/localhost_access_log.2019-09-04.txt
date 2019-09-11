@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:10:08:26 +0530] "POST /TestFirstServlet/ForwardController HTTP/1.1" 200 80
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:10:08:32 +0530] "GET /TestFirstServlet/form1.html HTTP/1.1" 200 659
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:10:08:36 +0530] "POST /TestFirstServlet/IncludeController HTTP/1.1" 200 181
+127.0.0.1 - - [04/Sep/2019:10:56:26 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:10:56:26 +0530] "GET /ServletConfigExample/WEB-INF/web.xml HTTP/1.1" 404 1047

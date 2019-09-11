@@ -1,0 +1,29 @@
+<html>  
+<head>
+<title>
+Form
+</title>
+</head>
+<body>
+<p> Include Forward Test Example******   </p>  
+<form action="ForwardController" method="post">  
+  
+enter user name: <input type="text" name="username"><br>  
+enter password: <input type="password" name="pwd"><br>  
+<input type="submit" name="login"><br>  
+  
+</form>  
+
+<p> Include Test Example............................   </p>  
+<form action="IncludeController" method="post">  
+  
+enter user name: <input type="text" name="username"><br>  
+enter password: <input type="password" name="pwd"><br>  
+<input type="submit" name="login"><br>  
+  
+  
+</form>  
+
+
+</body>  
+</html>

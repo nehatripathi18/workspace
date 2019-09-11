@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title></title>
+</head>
+<body>
+<table>
+
+<th>Product_name</th>
+<th> Quantiy</th>
+<th>Price</th>
+
+<tr>Soap </tr>
+<tr>1</tr>
+<tr> 50</tr>
+
+<tr> Shampoo</tr>
+<tr>2</tr>
+<tr> 120</tr>
+
+<tr>Toothpaste </tr>
+<tr>3</tr>
+<tr> 50</tr>
+
+<tr>Brush</tr>
+<tr>2</tr>
+<tr> 149</tr>
+
+</table>
+
+
+
+
+
+</body>
+</html>

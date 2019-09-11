@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="ISO-8859-1">
+<title> Index Page</title>
+
+</head>
+<body>
+
+<form action="MyServlet1" method="post">
+<input type ="text" name="name" value="">
+<br>
+
+<imput type ="submit" value="submit">
+
+
+</form>
+
+</body>
+
+
+</html>
